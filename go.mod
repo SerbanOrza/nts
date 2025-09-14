@@ -1,6 +1,6 @@
 module github.com/SerbanOrza/nts
 
-go 1.18
+go 1.17
 
 require (
 	github.com/beevik/ntp v1.4.3
